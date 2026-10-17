@@ -1,0 +1,551 @@
+{
+  "acne-studios": {
+    "capturedAt": "2026-10-16T12:29:56.996Z",
+    "frameable": false,
+    "ogImage": "https://cdn.acnestudios.com/static/fallback-image/AcneStudios.png",
+    "previewImage": "/screenshots/acne-studios.webp",
+    "fullPageImage": "/screenshots/acne-studios-full.webp",
+    "mobileImage": "/screenshots/acne-studios-mobile.webp",
+    "favicon": "/favicons/acne-studios.png"
+  },
+  "aime-leon-dore": {
+    "capturedAt": "2026-10-16T12:36:42.621Z",
+    "frameable": false,
+    "ogImage": "https://cdn.shopify.com/s/files/1/0302/7829/files/DESIGN_STORELINKIMAGE_011321.jpg?v=1610574591",
+    "previewImage": "/screenshots/aime-leon-dore.webp",
+    "fullPageImage": "/screenshots/aime-leon-dore-full.webp",
+    "mobileImage": "/screenshots/aime-leon-dore-mobile.webp",
+    "favicon": "/favicons/aime-leon-dore.png"
+  },
+  "analogue": {
+    "capturedAt": "2026-10-16T12:34:35.085Z",
+    "frameable": true,
+    "ogImage": "https://www.analogue.co/opengraph-image.png?opengraph-image.0gw_vrq9o0s1s.png?dpl=dpl_AuvvAWWsfDXjvJ5k26RdiyE5e6jW",
+    "previewImage": "/screenshots/analogue.webp",
+    "fullPageImage": "/screenshots/analogue-full.webp",
+    "mobileImage": "/screenshots/analogue-mobile.webp",
+    "favicon": "/favicons/analogue.png"
+  },
+  "arc": {
+    "capturedAt": "2026-10-16T12:28:53.381Z",
+    "frameable": true,
+    "ogImage": "https://arc.net/og.png",
+    "previewImage": "/screenshots/arc.webp",
+    "fullPageImage": "/screenshots/arc-full.webp",
+    "mobileImage": "/screenshots/arc-mobile.webp",
+    "favicon": "/favicons/arc.png"
+  },
+  "attio": {
+    "capturedAt": "2026-10-16T12:27:12.802Z",
+    "frameable": false,
+    "ogImage": "https://a.storyblok.com/f/234930/1200x630/df480627b4/attio-og-image.jpg",
+    "previewImage": "/screenshots/attio.webp",
+    "fullPageImage": "/screenshots/attio-full.webp",
+    "mobileImage": "/screenshots/attio-mobile.webp",
+    "favicon": "/favicons/attio.png"
+  },
+  "base": {
+    "capturedAt": "2026-10-16T12:35:05.750Z",
+    "frameable": false,
+    "ogImage": "https://base.org/images/base-open-graph-v2.png",
+    "previewImage": "/screenshots/base.webp",
+    "fullPageImage": "/screenshots/base-full.webp",
+    "mobileImage": "/screenshots/base-mobile.webp",
+    "favicon": "/favicons/base.png"
+  },
+  "big": {
+    "capturedAt": "2026-10-16T12:29:22.263Z",
+    "frameable": true,
+    "ogImage": "https://big.dk/share.jpg",
+    "previewImage": "/screenshots/big.webp",
+    "fullPageImage": "/screenshots/big-full.webp",
+    "mobileImage": "/screenshots/big-mobile.webp",
+    "favicon": "/favicons/big.png"
+  },
+  "brilliant": {
+    "capturedAt": "2026-10-16T12:30:24.636Z",
+    "frameable": false,
+    "ogImage": "https://brilliant.org/images/opengraph/og-lohp-1.png",
+    "previewImage": "/screenshots/brilliant.webp",
+    "fullPageImage": "/screenshots/brilliant-full.webp",
+    "mobileImage": "/screenshots/brilliant-mobile.webp",
+    "favicon": "/favicons/brilliant.png"
+  },
+  "brittany-chiang": {
+    "capturedAt": "2026-10-16T12:28:16.996Z",
+    "frameable": true,
+    "ogImage": "https://brittanychiang.com/og.png",
+    "previewImage": "/screenshots/brittany-chiang.webp",
+    "fullPageImage": "/screenshots/brittany-chiang-full.webp",
+    "mobileImage": "/screenshots/brittany-chiang-mobile.webp",
+    "favicon": "/favicons/brittany-chiang.png"
+  },
+  "cal": {
+    "capturedAt": "2026-10-16T12:27:12.802Z",
+    "frameable": true,
+    "ogImage": "https://framerusercontent.com/images/pPSh5HDe1qaySb4R7xBgMHudhU.png",
+    "previewImage": "/screenshots/cal.webp",
+    "fullPageImage": "/screenshots/cal-full.webp",
+    "mobileImage": "/screenshots/cal-mobile.webp",
+    "favicon": "/favicons/cal.png"
+  },
+  "clerk": {
+    "capturedAt": "2026-10-16T12:38:12.900Z",
+    "frameable": false,
+    "ogImage": "https://clerk.com/opengraph-image.jpg?opengraph-image.17r31whircaqh.jpg",
+    "previewImage": "/screenshots/clerk.webp",
+    "fullPageImage": "/screenshots/clerk-full.webp",
+    "mobileImage": "/screenshots/clerk-mobile.webp",
+    "favicon": "/favicons/clerk.png"
+  },
+  "collins": {
+    "capturedAt": "2026-10-16T12:31:52.103Z",
+    "frameable": true,
+    "ogImage": "https://cdn.sanity.io/images/fmzd4n68/production/e2ee60a94e1ccaae172c0c8304c59572d6316bb2-1200x630.png",
+    "previewImage": "/screenshots/collins.webp",
+    "fullPageImage": "/screenshots/collins-full.webp",
+    "mobileImage": "/screenshots/collins-mobile.webp",
+    "favicon": "/favicons/collins.png"
+  },
+  "craighill": {
+    "capturedAt": "2026-10-16T12:36:21.490Z",
+    "frameable": false,
+    "ogImage": null,
+    "previewImage": "/screenshots/craighill.webp",
+    "fullPageImage": "/screenshots/craighill-full.webp",
+    "mobileImage": "/screenshots/craighill-mobile.webp",
+    "favicon": "/favicons/craighill.png"
+  },
+  "cursor": {
+    "capturedAt": "2026-10-16T12:27:32.997Z",
+    "frameable": false,
+    "ogImage": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+    "previewImage": "/screenshots/cursor.webp",
+    "fullPageImage": "/screenshots/cursor-full.webp",
+    "mobileImage": "/screenshots/cursor-mobile.webp",
+    "favicon": "/favicons/cursor.png"
+  },
+  "darkroom": {
+    "capturedAt": "2026-10-16T12:31:53.844Z",
+    "frameable": false,
+    "ogImage": "https://darkroom.engineering/_next/static/immutable/media/opengraph-image.1k8toaqiviy56.png",
+    "previewImage": "/screenshots/darkroom.webp",
+    "fullPageImage": "/screenshots/darkroom-full.webp",
+    "mobileImage": "/screenshots/darkroom-mobile.webp",
+    "favicon": "/favicons/darkroom.png"
+  },
+  "dennis-snellenberg": {
+    "capturedAt": "2026-10-16T12:34:16.284Z",
+    "frameable": true,
+    "ogImage": "https://dennissnellenberg.com/media/site/89d468b455-1646837228/meta-image-dennis-snellenberg-860x540-crop-q72.jpg",
+    "previewImage": "/screenshots/dennis-snellenberg.webp",
+    "fullPageImage": "/screenshots/dennis-snellenberg-full.webp",
+    "mobileImage": "/screenshots/dennis-snellenberg-mobile.webp",
+    "favicon": "/favicons/dennis-snellenberg.png"
+  },
+  "duolingo": {
+    "capturedAt": "2026-10-16T12:30:26.260Z",
+    "frameable": false,
+    "ogImage": "https://www.duolingo.com/images/facebook/duo-08523a2.jpg",
+    "previewImage": "/screenshots/duolingo.webp",
+    "fullPageImage": "/screenshots/duolingo-full.webp",
+    "mobileImage": "/screenshots/duolingo-mobile.webp",
+    "favicon": "/favicons/duolingo.png"
+  },
+  "elevenlabs": {
+    "capturedAt": "2026-10-16T12:27:30.483Z",
+    "frameable": false,
+    "ogImage": "https://elevenlabs.io/cover.png",
+    "previewImage": "/screenshots/elevenlabs.webp",
+    "fullPageImage": "/screenshots/elevenlabs-full.webp",
+    "mobileImage": "/screenshots/elevenlabs-mobile.webp",
+    "favicon": "/favicons/elevenlabs.png"
+  },
+  "fantasy": {
+    "capturedAt": "2026-10-16T12:34:16.283Z",
+    "frameable": true,
+    "ogImage": "https://www.datocms-assets.com/157026/1753982207-intelligent-experiences-fantasy.jpg",
+    "previewImage": "/screenshots/fantasy.webp",
+    "fullPageImage": "/screenshots/fantasy-full.webp",
+    "mobileImage": "/screenshots/fantasy-mobile.webp",
+    "favicon": "/favicons/fantasy.png"
+  },
+  "flighty": {
+    "capturedAt": "2026-10-16T12:32:07.104Z",
+    "frameable": true,
+    "ogImage": "https://framerusercontent.com/images/vTxvYBhi0Zzlm16K4AQRqpeA.png",
+    "previewImage": "/screenshots/flighty.webp",
+    "fullPageImage": "/screenshots/flighty-full.webp",
+    "mobileImage": "/screenshots/flighty-mobile.webp",
+    "favicon": "/favicons/flighty.png"
+  },
+  "framer": {
+    "capturedAt": "2026-10-16T12:28:59.370Z",
+    "frameable": false,
+    "ogImage": "https://framerusercontent.com/images/vt65Mbfi3w8ymfTyRfbmgM4Tyo.png",
+    "previewImage": "/screenshots/framer.webp",
+    "fullPageImage": "/screenshots/framer-full.webp",
+    "mobileImage": "/screenshots/framer-mobile.webp",
+    "favicon": "/favicons/framer.png"
+  },
+  "halide": {
+    "capturedAt": "2026-10-16T12:32:08.567Z",
+    "frameable": true,
+    "ogImage": "https://halide.cam/og_banner.jpg",
+    "previewImage": "/screenshots/halide.webp",
+    "fullPageImage": "/screenshots/halide-full.webp",
+    "mobileImage": "/screenshots/halide-mobile.webp",
+    "favicon": "/favicons/halide.png"
+  },
+  "instrument": {
+    "capturedAt": "2026-10-16T12:27:50.445Z",
+    "frameable": true,
+    "ogImage": "https://a-us.storyblok.com/f/1004432/1200x630/e7ff102c87/000.png/m/1200x630/filters:format(png)/",
+    "previewImage": "/screenshots/instrument.webp",
+    "fullPageImage": "/screenshots/instrument-full.webp",
+    "mobileImage": "/screenshots/instrument-mobile.webp",
+    "favicon": "/favicons/instrument.png"
+  },
+  "its-nice-that": {
+    "capturedAt": "2026-10-16T12:30:06.082Z",
+    "frameable": true,
+    "ogImage": "https://m.itsnicethat.com/original_images/ItsNiceThat.png?class=w1440",
+    "previewImage": "/screenshots/its-nice-that.webp",
+    "fullPageImage": "/screenshots/its-nice-that-full.webp",
+    "mobileImage": "/screenshots/its-nice-that-mobile.webp",
+    "favicon": "/favicons/its-nice-that.png"
+  },
+  "josh-comeau": {
+    "capturedAt": "2026-10-16T12:28:19.965Z",
+    "frameable": true,
+    "ogImage": "https://www.joshwcomeau.com/opengraph-image.png?cac0cc658da9fd03",
+    "previewImage": "/screenshots/josh-comeau.webp",
+    "fullPageImage": "/screenshots/josh-comeau-full.webp",
+    "mobileImage": "/screenshots/josh-comeau-mobile.webp",
+    "favicon": "/favicons/josh-comeau.png"
+  },
+  "learning-music": {
+    "capturedAt": "2026-10-16T12:36:55.983Z",
+    "frameable": false,
+    "ogImage": "https://learningmusic.ableton.com/images/og-image.jpg",
+    "previewImage": "/screenshots/learning-music.webp",
+    "fullPageImage": "/screenshots/learning-music-full.webp",
+    "mobileImage": "/screenshots/learning-music-mobile.webp",
+    "favicon": "/favicons/learning-music.png"
+  },
+  "lee-robinson": {
+    "capturedAt": "2026-10-16T12:28:24.773Z",
+    "frameable": true,
+    "ogImage": "https://leerob.com/opengraph-image.png?opengraph-image.e50fc1a6.png",
+    "previewImage": "/screenshots/lee-robinson.webp",
+    "fullPageImage": "/screenshots/lee-robinson-full.webp",
+    "mobileImage": "/screenshots/lee-robinson-mobile.webp",
+    "favicon": "/favicons/lee-robinson.png"
+  },
+  "linear": {
+    "capturedAt": "2026-10-16T12:26:46.269Z",
+    "frameable": false,
+    "ogImage": "https://linear.app/api/og/main?title=Linear&v=4",
+    "previewImage": "/screenshots/linear.webp",
+    "fullPageImage": "/screenshots/linear-full.webp",
+    "mobileImage": "/screenshots/linear-mobile.webp",
+    "favicon": "/favicons/linear.png"
+  },
+  "locomotive": {
+    "capturedAt": "2026-10-16T12:36:21.490Z",
+    "frameable": false,
+    "ogImage": "https://locomotive.ca/uploads/metadata/Open_Graph_Loco_%281%29.png",
+    "previewImage": "/screenshots/locomotive.webp",
+    "fullPageImage": "/screenshots/locomotive-full.webp",
+    "mobileImage": "/screenshots/locomotive-mobile.webp",
+    "favicon": "/favicons/locomotive.png"
+  },
+  "lynn-fisher": {
+    "capturedAt": "2026-10-16T12:28:12.265Z",
+    "frameable": true,
+    "ogImage": "https://lynnandtonic.com/assets/images/OG/vXIX.jpg",
+    "previewImage": "/screenshots/lynn-fisher.webp",
+    "fullPageImage": "/screenshots/lynn-fisher-full.webp",
+    "mobileImage": "/screenshots/lynn-fisher-mobile.webp",
+    "favicon": "/favicons/lynn-fisher.png"
+  },
+  "magnum": {
+    "capturedAt": "2026-10-16T12:36:34.954Z",
+    "frameable": true,
+    "ogImage": "https://www.magnumphotos.com/wp-content/uploads/2016/05/magnum_sharing.jpg",
+    "previewImage": "/screenshots/magnum.webp",
+    "fullPageImage": "/screenshots/magnum-full.webp",
+    "mobileImage": "/screenshots/magnum-mobile.webp",
+    "favicon": "/favicons/magnum.png"
+  },
+  "mercury": {
+    "capturedAt": "2026-10-16T12:30:44.849Z",
+    "frameable": null,
+    "ogImage": "https://www.datocms-assets.com/115132/1746056008-2025-04-30_fem_homepage-social_1200x630.webp?auto=format&fit=crop&w=1200",
+    "previewImage": "/screenshots/mercury.webp",
+    "fullPageImage": "/screenshots/mercury-full.webp",
+    "mobileImage": "/screenshots/mercury-mobile.webp",
+    "favicon": "/favicons/mercury.png"
+  },
+  "midjourney": {
+    "capturedAt": "2026-10-16T12:27:40.861Z",
+    "frameable": false,
+    "ogImage": null,
+    "previewImage": "/screenshots/midjourney.webp",
+    "fullPageImage": "/screenshots/midjourney-full.webp",
+    "mobileImage": "/screenshots/midjourney-mobile.webp",
+    "favicon": "/favicons/midjourney.png"
+  },
+  "oma": {
+    "capturedAt": "2026-10-16T12:34:39.506Z",
+    "frameable": false,
+    "ogImage": null,
+    "previewImage": "/screenshots/oma.webp",
+    "fullPageImage": "/screenshots/oma-full.webp",
+    "mobileImage": "/screenshots/oma-mobile.webp",
+    "favicon": "/favicons/oma.png"
+  },
+  "opal": {
+    "capturedAt": "2026-10-16T12:32:10.254Z",
+    "frameable": false,
+    "ogImage": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/6a1445cc60a96baf729c82f3_thumbnail%20(1)%201.webp",
+    "previewImage": "/screenshots/opal.webp",
+    "fullPageImage": "/screenshots/opal-full.webp",
+    "mobileImage": "/screenshots/opal-mobile.webp",
+    "favicon": "/favicons/opal.png"
+  },
+  "pentagram": {
+    "capturedAt": "2026-10-16T12:36:58.313Z",
+    "frameable": false,
+    "ogImage": "https://www.pentagram.com/pentagram_social.png",
+    "previewImage": "/screenshots/pentagram.webp",
+    "fullPageImage": "/screenshots/pentagram-full.webp",
+    "mobileImage": "/screenshots/pentagram-mobile.webp",
+    "favicon": "/favicons/pentagram.png"
+  },
+  "perplexity": {
+    "capturedAt": "2026-10-16T12:36:21.490Z",
+    "frameable": false,
+    "ogImage": "https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png",
+    "previewImage": "/screenshots/perplexity.webp",
+    "fullPageImage": "/screenshots/perplexity-full.webp",
+    "mobileImage": "/screenshots/perplexity-mobile.webp",
+    "favicon": "/favicons/perplexity.png"
+  },
+  "phantom": {
+    "capturedAt": "2026-10-16T12:31:24.721Z",
+    "frameable": true,
+    "ogImage": "https://phantom.com/_web_platform_assets/images/og-image.jpg",
+    "previewImage": "/screenshots/phantom.webp",
+    "fullPageImage": "/screenshots/phantom-full.webp",
+    "mobileImage": "/screenshots/phantom-mobile.webp",
+    "favicon": "/favicons/phantom.png"
+  },
+  "pitch": {
+    "capturedAt": "2026-10-16T12:28:58.838Z",
+    "frameable": false,
+    "ogImage": "https://framerusercontent.com/assets/WJrArV3ktU515VCNK75vEu7SjNg.jpg",
+    "previewImage": "/screenshots/pitch.webp",
+    "fullPageImage": "/screenshots/pitch-full.webp",
+    "mobileImage": "/screenshots/pitch-mobile.webp",
+    "favicon": "/favicons/pitch.png"
+  },
+  "playdate": {
+    "capturedAt": "2026-10-16T12:34:37.574Z",
+    "frameable": false,
+    "ogImage": "https://play.date/static/images/social-card-3.d239ab818725.jpg",
+    "previewImage": "/screenshots/playdate.webp",
+    "fullPageImage": "/screenshots/playdate-full.webp",
+    "mobileImage": "/screenshots/playdate-mobile.webp",
+    "favicon": "/favicons/playdate.png"
+  },
+  "rainbow": {
+    "capturedAt": "2026-10-16T12:31:09.229Z",
+    "frameable": false,
+    "ogImage": "https://rainbow.me/assets/og.png",
+    "previewImage": "/screenshots/rainbow.webp",
+    "fullPageImage": "/screenshots/rainbow-full.webp",
+    "mobileImage": "/screenshots/rainbow-mobile.webp",
+    "favicon": "/favicons/rainbow.png"
+  },
+  "ramp": {
+    "capturedAt": "2026-10-16T12:30:48.259Z",
+    "frameable": null,
+    "ogImage": "https://next.ramp.com/assets/images/default-og-image.jpg",
+    "previewImage": "/screenshots/ramp.webp",
+    "fullPageImage": "/screenshots/ramp-full.webp",
+    "mobileImage": "/screenshots/ramp-mobile.webp",
+    "favicon": "/favicons/ramp.png"
+  },
+  "rauno": {
+    "capturedAt": "2026-10-16T12:28:08.919Z",
+    "frameable": false,
+    "ogImage": "https://rauno.me/og4.png",
+    "previewImage": "/screenshots/rauno.webp",
+    "fullPageImage": "/screenshots/rauno-full.webp",
+    "mobileImage": "/screenshots/rauno-mobile.webp",
+    "favicon": "/favicons/rauno.png"
+  },
+  "raycast": {
+    "capturedAt": "2026-10-16T12:27:12.802Z",
+    "frameable": false,
+    "ogImage": "https://www.raycast.com/opengraph-image-pwu6ef.png?opengraph-image.1f-98etzkaz5s.png",
+    "previewImage": "/screenshots/raycast.webp",
+    "fullPageImage": "/screenshots/raycast-full.webp",
+    "mobileImage": "/screenshots/raycast-mobile.webp",
+    "favicon": "/favicons/raycast.png"
+  },
+  "resend": {
+    "capturedAt": "2026-10-16T12:29:04.452Z",
+    "frameable": false,
+    "ogImage": "https://resend.com/static/cover.jpg",
+    "previewImage": "/screenshots/resend.webp",
+    "fullPageImage": "/screenshots/resend-full.webp",
+    "mobileImage": "/screenshots/resend-mobile.webp",
+    "favicon": "/favicons/resend.png"
+  },
+  "runway": {
+    "capturedAt": "2026-10-16T12:27:27.340Z",
+    "frameable": false,
+    "ogImage": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/homepage-og-card-v3.webp",
+    "previewImage": "/screenshots/runway.webp",
+    "fullPageImage": "/screenshots/runway-full.webp",
+    "mobileImage": "/screenshots/runway-mobile.webp",
+    "favicon": "/favicons/runway.png"
+  },
+  "snohetta": {
+    "capturedAt": "2026-10-16T12:29:29.187Z",
+    "frameable": false,
+    "ogImage": "https://snohetta.b-cdn.net/uploads/images/thumbnail_2025.jpg?width=1200&height=630&format=jpg&quality=85&crop=1920%2C1008%2C0%2C36",
+    "previewImage": "/screenshots/snohetta.webp",
+    "fullPageImage": "/screenshots/snohetta-full.webp",
+    "mobileImage": "/screenshots/snohetta-mobile.webp",
+    "favicon": "/favicons/snohetta.png"
+  },
+  "stripe": {
+    "capturedAt": "2026-10-16T12:30:42.895Z",
+    "frameable": false,
+    "ogImage": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/stripe.37119086.jpg",
+    "previewImage": "/screenshots/stripe.webp",
+    "fullPageImage": "/screenshots/stripe-full.webp",
+    "mobileImage": "/screenshots/stripe-mobile.webp",
+    "favicon": "/favicons/stripe.png"
+  },
+  "studio-dumbar": {
+    "capturedAt": "2026-10-16T12:35:08.540Z",
+    "frameable": true,
+    "ogImage": null,
+    "previewImage": "/screenshots/studio-dumbar.webp",
+    "fullPageImage": "/screenshots/studio-dumbar-full.webp",
+    "mobileImage": "/screenshots/studio-dumbar-mobile.webp",
+    "favicon": "/favicons/studio-dumbar.png"
+  },
+  "studio-nicholson": {
+    "capturedAt": "2026-10-16T12:36:37.936Z",
+    "frameable": false,
+    "ogImage": "https://cdn.shopify.com/s/files/1/1070/4650/files/sn-logo-transparent.png?height=628&pad_color=fff&v=1628519853&width=1200",
+    "previewImage": "/screenshots/studio-nicholson.webp",
+    "fullPageImage": "/screenshots/studio-nicholson-full.webp",
+    "mobileImage": "/screenshots/studio-nicholson-mobile.webp",
+    "favicon": "/favicons/studio-nicholson.png"
+  },
+  "supabase": {
+    "capturedAt": "2026-10-16T12:28:44.288Z",
+    "frameable": true,
+    "ogImage": "https://supabase.com/images/og/supabase-og.png",
+    "previewImage": "/screenshots/supabase.webp",
+    "fullPageImage": "/screenshots/supabase-full.webp",
+    "mobileImage": "/screenshots/supabase-mobile.webp",
+    "favicon": "/favicons/supabase.png"
+  },
+  "superhuman": {
+    "capturedAt": "2026-10-16T12:29:11.181Z",
+    "frameable": false,
+    "ogImage": "https://superhumanstatic.com/vwfkeyj6n9ac/70d5WBekIRRrA200BtyOob/7ecef93df6ed744b4e7df600140732e1/HP-Meta-Image-8-12-2026__1_.gif",
+    "previewImage": "/screenshots/superhuman.webp",
+    "fullPageImage": "/screenshots/superhuman-full.webp",
+    "mobileImage": "/screenshots/superhuman-mobile.webp",
+    "favicon": "/favicons/superhuman.png"
+  },
+  "teenage-engineering": {
+    "capturedAt": "2026-10-16T12:28:32.591Z",
+    "frameable": true,
+    "ogImage": "https://assets.teenage.engineering/_img/6ac7e2a34e770874f80da65c_1024.webp",
+    "previewImage": "/screenshots/teenage-engineering.webp",
+    "fullPageImage": "/screenshots/teenage-engineering-full.webp",
+    "mobileImage": "/screenshots/teenage-engineering-mobile.webp",
+    "favicon": "/favicons/teenage-engineering.png"
+  },
+  "the-pudding": {
+    "capturedAt": "2026-10-16T12:30:09.729Z",
+    "frameable": true,
+    "ogImage": "https://pudding.cool/common/assets/social/og-facebook.jpg",
+    "previewImage": "/screenshots/the-pudding.webp",
+    "fullPageImage": "/screenshots/the-pudding-full.webp",
+    "mobileImage": "/screenshots/the-pudding-mobile.webp",
+    "favicon": "/favicons/the-pudding.png"
+  },
+  "the-verge": {
+    "capturedAt": "2026-10-16T12:38:12.900Z",
+    "frameable": null,
+    "ogImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
+    "previewImage": "/screenshots/the-verge.webp",
+    "fullPageImage": "/screenshots/the-verge-full.webp",
+    "mobileImage": "/screenshots/the-verge-mobile.webp",
+    "favicon": "/favicons/the-verge.png"
+  },
+  "things": {
+    "capturedAt": "2026-10-16T12:32:06.876Z",
+    "frameable": false,
+    "ogImage": "https://culturedcode.com/things/2024-01-20/images/meettheallnewthings2-io75.jpg",
+    "previewImage": "/screenshots/things.webp",
+    "fullPageImage": "/screenshots/things-full.webp",
+    "mobileImage": "/screenshots/things-mobile.webp",
+    "favicon": "/favicons/things.png"
+  },
+  "ugmonk": {
+    "capturedAt": "2026-10-16T12:34:16.284Z",
+    "frameable": true,
+    "ogImage": "http://ugmonk.com/cdn/shop/files/inventery-251.jpg?v=1783632646",
+    "previewImage": "/screenshots/ugmonk.webp",
+    "fullPageImage": "/screenshots/ugmonk-full.webp",
+    "mobileImage": "/screenshots/ugmonk-mobile.webp",
+    "favicon": "/favicons/ugmonk.png"
+  },
+  "uniswap": {
+    "capturedAt": "2026-10-16T12:30:58.152Z",
+    "frameable": false,
+    "ogImage": "https://app.uniswap.com/images/1200x630_Rich_Link_Preview_Image.png",
+    "previewImage": "/screenshots/uniswap.webp",
+    "fullPageImage": "/screenshots/uniswap-full.webp",
+    "mobileImage": "/screenshots/uniswap-mobile.webp",
+    "favicon": "/favicons/uniswap.png"
+  },
+  "unsplash": {
+    "capturedAt": "2026-10-16T12:29:40.140Z",
+    "frameable": false,
+    "ogImage": "https://images.unsplash.com/opengraph/1x1.png?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1791395533990-8d527f003887%3Fcrop%3Dfaces%252Cedges%26h%3D630%26w%3D1200%26blend%3D000000%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark-w%3D424%26mark-align%3Dmiddle%252Ccenter%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fwordmark.png%26auto%3Dformat%26fit%3Dcrop%26q%3D60%26ixid%3DNHwxMjA3fDE%26ixlib%3Drb-4.1.0&blend-w=1&auto=format&fit=crop&q=60",
+    "previewImage": "/screenshots/unsplash.webp",
+    "fullPageImage": "/screenshots/unsplash-full.webp",
+    "mobileImage": "/screenshots/unsplash-mobile.webp",
+    "favicon": "/favicons/unsplash.png"
+  },
+  "vercel": {
+    "capturedAt": "2026-10-16T12:28:35.278Z",
+    "frameable": false,
+    "ogImage": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/og-home-not-x.png",
+    "previewImage": "/screenshots/vercel.webp",
+    "fullPageImage": "/screenshots/vercel-full.webp",
+    "mobileImage": "/screenshots/vercel-mobile.webp",
+    "favicon": "/favicons/vercel.png"
+  },
+  "wise": {
+    "capturedAt": "2026-10-16T12:30:50.851Z",
+    "frameable": false,
+    "ogImage": "https://wise.com/public-resources/assets/icons/wise-personal/share_landscape.png",
+    "previewImage": "/screenshots/wise.webp",
+    "fullPageImage": "/screenshots/wise-full.webp",
+    "mobileImage": "/screenshots/wise-mobile.webp",
+    "favicon": "/favicons/wise.png"
+  }
+}
