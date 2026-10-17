@@ -5,6 +5,7 @@
  *   npm run capture                # capture sites missing from captures.json
  *   npm run capture -- linear arc  # (re)capture specific slugs
  *   npm run capture -- --all       # recapture everything
+ *   CAPTURE_WAIT=9000 npm run capture -- <slug>  # wait longer for intro animations
  *
  * Uses the locally installed Google Chrome through playwright-core, so no
  * browser download is needed. Override with CHROME_PATH=/path/to/chrome.
@@ -33,6 +34,8 @@ const CHROME_PATH =
   process.env.CHROME_PATH ??
   "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
 const CONCURRENCY = Number(process.env.CONCURRENCY ?? 4);
+/** Extra settle time after load, for sites with long intro animations. */
+const SETTLE_MS = Number(process.env.CAPTURE_WAIT ?? 2500);
 const DESKTOP = { width: 1440, height: 900 };
 const MOBILE = { width: 390, height: 844 };
 const MAX_FULL_HEIGHT = 5400; // css px, desktop
@@ -94,7 +97,7 @@ async function openPage(context, url) {
     // Heavy pages sometimes never fire `load`; keep whatever rendered.
   }
   await page.addStyleTag({ content: HIDE_OVERLAYS_CSS }).catch(() => {});
-  await page.waitForTimeout(2500);
+  await page.waitForTimeout(SETTLE_MS);
   await hideModals(page);
   return { page, response };
 }

@@ -1,4 +1,13 @@
 {
+  "abrar-ayman": {
+    "capturedAt": "2026-10-17T17:47:37.991Z",
+    "frameable": true,
+    "ogImage": "https://abrarayman.com/assets/abrar-ayman-social-card.png",
+    "previewImage": "/screenshots/abrar-ayman.webp",
+    "fullPageImage": "/screenshots/abrar-ayman-full.webp",
+    "mobileImage": "/screenshots/abrar-ayman-mobile.webp",
+    "favicon": "/favicons/abrar-ayman.png"
+  },
   "acne-studios": {
     "capturedAt": "2026-10-16T12:29:56.996Z",
     "frameable": false,
@@ -17,6 +26,15 @@
     "mobileImage": "/screenshots/aime-leon-dore-mobile.webp",
     "favicon": "/favicons/aime-leon-dore.png"
   },
+  "aloud": {
+    "capturedAt": "2026-10-17T17:43:57.948Z",
+    "frameable": false,
+    "ogImage": "https://www.aloud.sh/img/og-card-2.jpg",
+    "previewImage": "/screenshots/aloud.webp",
+    "fullPageImage": "/screenshots/aloud-full.webp",
+    "mobileImage": "/screenshots/aloud-mobile.webp",
+    "favicon": "/favicons/aloud.png"
+  },
   "analogue": {
     "capturedAt": "2026-10-16T12:34:35.085Z",
     "frameable": true,
@@ -34,6 +52,24 @@
     "fullPageImage": "/screenshots/arc-full.webp",
     "mobileImage": "/screenshots/arc-mobile.webp",
     "favicon": "/favicons/arc.png"
+  },
+  "ardor": {
+    "capturedAt": "2026-10-17T17:43:54.805Z",
+    "frameable": true,
+    "ogImage": "https://ardor.cloud/og.png",
+    "previewImage": "/screenshots/ardor.webp",
+    "fullPageImage": "/screenshots/ardor-full.webp",
+    "mobileImage": "/screenshots/ardor-mobile.webp",
+    "favicon": "/favicons/ardor.png"
+  },
+  "atalanta": {
+    "capturedAt": "2026-10-17T17:43:22.970Z",
+    "frameable": true,
+    "ogImage": "https://cdn.sanity.io/images/pch7hdea/production/1d58bb2a60a1957e2bd32cdc9d02f9db7719188e-1500x500.png",
+    "previewImage": "/screenshots/atalanta.webp",
+    "fullPageImage": "/screenshots/atalanta-full.webp",
+    "mobileImage": "/screenshots/atalanta-mobile.webp",
+    "favicon": "/favicons/atalanta.png"
   },
   "attio": {
     "capturedAt": "2026-10-16T12:27:12.802Z",
@@ -89,6 +125,33 @@
     "mobileImage": "/screenshots/cal-mobile.webp",
     "favicon": "/favicons/cal.png"
   },
+  "capsule": {
+    "capturedAt": "2026-10-17T17:43:13.968Z",
+    "frameable": false,
+    "ogImage": "https://capsulecrm.com/generic-image.png",
+    "previewImage": "/screenshots/capsule.webp",
+    "fullPageImage": "/screenshots/capsule-full.webp",
+    "mobileImage": "/screenshots/capsule-mobile.webp",
+    "favicon": "/favicons/capsule.png"
+  },
+  "clarion": {
+    "capturedAt": "2026-10-17T17:44:45.609Z",
+    "frameable": true,
+    "ogImage": "https://cdn.prod.website-files.com/672129b642cb0117f4c53944/697a16a3c51f57617cc9c0f7_clarion-web-share.png",
+    "previewImage": "/screenshots/clarion.webp",
+    "fullPageImage": "/screenshots/clarion-full.webp",
+    "mobileImage": "/screenshots/clarion-mobile.webp",
+    "favicon": "/favicons/clarion.png"
+  },
+  "clay": {
+    "capturedAt": "2026-10-17T17:46:32.408Z",
+    "frameable": false,
+    "ogImage": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a3ab15061812432ead96f56_Clay_Homepage_og-image%201000.png",
+    "previewImage": "/screenshots/clay.webp",
+    "fullPageImage": "/screenshots/clay-full.webp",
+    "mobileImage": "/screenshots/clay-mobile.webp",
+    "favicon": "/favicons/clay.png"
+  },
   "clerk": {
     "capturedAt": "2026-10-16T12:38:12.900Z",
     "frameable": false,
@@ -125,6 +188,15 @@
     "mobileImage": "/screenshots/cursor-mobile.webp",
     "favicon": "/favicons/cursor.png"
   },
+  "dabbit": {
+    "capturedAt": "2026-10-17T17:48:06.777Z",
+    "frameable": true,
+    "ogImage": "https://dabbit.app/og.png",
+    "previewImage": "/screenshots/dabbit.webp",
+    "fullPageImage": "/screenshots/dabbit-full.webp",
+    "mobileImage": "/screenshots/dabbit-mobile.webp",
+    "favicon": "/favicons/dabbit.png"
+  },
   "darkroom": {
     "capturedAt": "2026-10-16T12:31:53.844Z",
     "frameable": false,
@@ -142,6 +214,33 @@
     "fullPageImage": "/screenshots/dennis-snellenberg-full.webp",
     "mobileImage": "/screenshots/dennis-snellenberg-mobile.webp",
     "favicon": "/favicons/dennis-snellenberg.png"
+  },
+  "dilling": {
+    "capturedAt": "2026-10-17T17:46:08.230Z",
+    "frameable": false,
+    "ogImage": "https://cdn.sanity.io/media-libraries/ml9qGyUlqTuI/images/62630586af9962c7b8eac8bc7dea3845b93c06f6-1200x630.png?w=1200&h=630&fit=max&fm=jpg&q=80",
+    "previewImage": "/screenshots/dilling.webp",
+    "fullPageImage": "/screenshots/dilling-full.webp",
+    "mobileImage": "/screenshots/dilling-mobile.webp",
+    "favicon": null
+  },
+  "domaine": {
+    "capturedAt": "2026-10-17T17:43:41.340Z",
+    "frameable": true,
+    "ogImage": "https://cdn.sanity.io/images/cxeknc6v/production/518ae246391d917a253309e23f5985edb092c2bc-1200x630.png",
+    "previewImage": "/screenshots/domaine.webp",
+    "fullPageImage": "/screenshots/domaine-full.webp",
+    "mobileImage": "/screenshots/domaine-mobile.webp",
+    "favicon": "/favicons/domaine.png"
+  },
+  "duna": {
+    "capturedAt": "2026-10-17T17:46:17.269Z",
+    "frameable": true,
+    "ogImage": "https://duna.digital/uploads/og_duna_digital_81b2548a3c.png?v=z3kous",
+    "previewImage": "/screenshots/duna.webp",
+    "fullPageImage": "/screenshots/duna-full.webp",
+    "mobileImage": "/screenshots/duna-mobile.webp",
+    "favicon": "/favicons/duna.png"
   },
   "duolingo": {
     "capturedAt": "2026-10-16T12:30:26.260Z",
@@ -161,6 +260,15 @@
     "mobileImage": "/screenshots/elevenlabs-mobile.webp",
     "favicon": "/favicons/elevenlabs.png"
   },
+  "exemplar": {
+    "capturedAt": "2026-10-17T17:42:27.074Z",
+    "frameable": true,
+    "ogImage": "https://exemplarfromsweden.com/assets/og/index.jpg",
+    "previewImage": "/screenshots/exemplar.webp",
+    "fullPageImage": "/screenshots/exemplar-full.webp",
+    "mobileImage": "/screenshots/exemplar-mobile.webp",
+    "favicon": "/favicons/exemplar.png"
+  },
   "fantasy": {
     "capturedAt": "2026-10-16T12:34:16.283Z",
     "frameable": true,
@@ -169,6 +277,42 @@
     "fullPageImage": "/screenshots/fantasy-full.webp",
     "mobileImage": "/screenshots/fantasy-mobile.webp",
     "favicon": "/favicons/fantasy.png"
+  },
+  "ferio": {
+    "capturedAt": "2026-10-17T17:42:45.229Z",
+    "frameable": false,
+    "ogImage": "https://ferio.so/og?card=home&title=Ferio%2C%20A%20curated%20image%20library%20for%20modern%20creatives.",
+    "previewImage": "/screenshots/ferio.webp",
+    "fullPageImage": "/screenshots/ferio-full.webp",
+    "mobileImage": "/screenshots/ferio-mobile.webp",
+    "favicon": "/favicons/ferio.png"
+  },
+  "fernand": {
+    "capturedAt": "2026-10-17T17:44:39.288Z",
+    "frameable": true,
+    "ogImage": "https://getfernand.com/images/favicon/fernand-customer-support-for-founders-opengraph.png",
+    "previewImage": "/screenshots/fernand.webp",
+    "fullPageImage": "/screenshots/fernand-full.webp",
+    "mobileImage": "/screenshots/fernand-mobile.webp",
+    "favicon": "/favicons/fernand.png"
+  },
+  "fieldwork": {
+    "capturedAt": "2026-10-17T17:45:43.437Z",
+    "frameable": true,
+    "ogImage": "https://fieldworkretreats.com/social-share.jpg",
+    "previewImage": "/screenshots/fieldwork.webp",
+    "fullPageImage": "/screenshots/fieldwork-full.webp",
+    "mobileImage": "/screenshots/fieldwork-mobile.webp",
+    "favicon": "/favicons/fieldwork.png"
+  },
+  "flex-elite": {
+    "capturedAt": "2026-10-17T17:47:37.991Z",
+    "frameable": false,
+    "ogImage": "https://cdn.prod.website-files.com/6363baf98b4d847ae3242ef5/6aac3d6df5e4eebcd0b4b9e8_Elite%20Site%20Preview.webp",
+    "previewImage": "/screenshots/flex-elite.webp",
+    "fullPageImage": "/screenshots/flex-elite-full.webp",
+    "mobileImage": "/screenshots/flex-elite-mobile.webp",
+    "favicon": "/favicons/flex-elite.png"
   },
   "flighty": {
     "capturedAt": "2026-10-16T12:32:07.104Z",
@@ -179,6 +323,15 @@
     "mobileImage": "/screenshots/flighty-mobile.webp",
     "favicon": "/favicons/flighty.png"
   },
+  "flynnys": {
+    "capturedAt": "2026-10-17T17:42:31.021Z",
+    "frameable": false,
+    "ogImage": "http://flynnys.com/cdn/shop/files/Flynnys_hero_-_razor.png?v=1789171051",
+    "previewImage": "/screenshots/flynnys.webp",
+    "fullPageImage": "/screenshots/flynnys-full.webp",
+    "mobileImage": "/screenshots/flynnys-mobile.webp",
+    "favicon": "/favicons/flynnys.png"
+  },
   "framer": {
     "capturedAt": "2026-10-16T12:28:59.370Z",
     "frameable": false,
@@ -188,6 +341,33 @@
     "mobileImage": "/screenshots/framer-mobile.webp",
     "favicon": "/favicons/framer.png"
   },
+  "ganni": {
+    "capturedAt": "2026-10-17T17:45:18.432Z",
+    "frameable": false,
+    "ogImage": "https://ganni.kleecks-cdn.com/on/demandware.static/-/Sites/default/dwcfb5b867/25-3-url.jpg",
+    "previewImage": "/screenshots/ganni.webp",
+    "fullPageImage": "/screenshots/ganni-full.webp",
+    "mobileImage": "/screenshots/ganni-mobile.webp",
+    "favicon": "/favicons/ganni.png"
+  },
+  "ghost-ai": {
+    "capturedAt": "2026-10-17T17:43:00.897Z",
+    "frameable": true,
+    "ogImage": "https://ghost.ai/opengraph-image.jpg?opengraph-image.13anp_69f8ba9.jpg",
+    "previewImage": "/screenshots/ghost-ai.webp",
+    "fullPageImage": "/screenshots/ghost-ai-full.webp",
+    "mobileImage": "/screenshots/ghost-ai-mobile.webp",
+    "favicon": "/favicons/ghost-ai.png"
+  },
+  "giga": {
+    "capturedAt": "2026-10-17T17:44:02.731Z",
+    "frameable": false,
+    "ogImage": "https://giga.ai/og/og-home.png",
+    "previewImage": "/screenshots/giga.webp",
+    "fullPageImage": "/screenshots/giga-full.webp",
+    "mobileImage": "/screenshots/giga-mobile.webp",
+    "favicon": "/favicons/giga.png"
+  },
   "halide": {
     "capturedAt": "2026-10-16T12:32:08.567Z",
     "frameable": true,
@@ -196,6 +376,33 @@
     "fullPageImage": "/screenshots/halide-full.webp",
     "mobileImage": "/screenshots/halide-mobile.webp",
     "favicon": "/favicons/halide.png"
+  },
+  "haptic": {
+    "capturedAt": "2026-10-17T17:44:05.352Z",
+    "frameable": true,
+    "ogImage": "https://framerusercontent.com/images/A8sx0lm2ec5o8TwRMkrrWPtHuI.jpg",
+    "previewImage": "/screenshots/haptic.webp",
+    "fullPageImage": "/screenshots/haptic-full.webp",
+    "mobileImage": "/screenshots/haptic-mobile.webp",
+    "favicon": "/favicons/haptic.png"
+  },
+  "heist": {
+    "capturedAt": "2026-10-17T17:43:20.611Z",
+    "frameable": false,
+    "ogImage": "https://www.heist.co/cdn/shop/files/metaimage-heist.jpg?v=1786721488&width=1200",
+    "previewImage": "/screenshots/heist.webp",
+    "fullPageImage": "/screenshots/heist-full.webp",
+    "mobileImage": "/screenshots/heist-mobile.webp",
+    "favicon": "/favicons/heist.png"
+  },
+  "hyper-effekt": {
+    "capturedAt": "2026-10-17T17:44:56.903Z",
+    "frameable": true,
+    "ogImage": "https://framerusercontent.com/images/tpu0IZBqPlBcaZ5z0AAGFZ7ZtA4.jpg",
+    "previewImage": "/screenshots/hyper-effekt.webp",
+    "fullPageImage": "/screenshots/hyper-effekt-full.webp",
+    "mobileImage": "/screenshots/hyper-effekt-mobile.webp",
+    "favicon": "/favicons/hyper-effekt.png"
   },
   "instrument": {
     "capturedAt": "2026-10-16T12:27:50.445Z",
@@ -224,6 +431,24 @@
     "mobileImage": "/screenshots/josh-comeau-mobile.webp",
     "favicon": "/favicons/josh-comeau.png"
   },
+  "komma-komma": {
+    "capturedAt": "2026-10-17T17:47:37.991Z",
+    "frameable": true,
+    "ogImage": null,
+    "previewImage": "/screenshots/komma-komma.webp",
+    "fullPageImage": "/screenshots/komma-komma-full.webp",
+    "mobileImage": "/screenshots/komma-komma-mobile.webp",
+    "favicon": null
+  },
+  "kyoso": {
+    "capturedAt": "2026-10-17T17:44:26.389Z",
+    "frameable": true,
+    "ogImage": "https://www.kyoso.com/opengraph-image.png?opengraph-image.0fq1i_nr90ox8.png",
+    "previewImage": "/screenshots/kyoso.webp",
+    "fullPageImage": "/screenshots/kyoso-full.webp",
+    "mobileImage": "/screenshots/kyoso-mobile.webp",
+    "favicon": "/favicons/kyoso.png"
+  },
   "learning-music": {
     "capturedAt": "2026-10-16T12:36:55.983Z",
     "frameable": false,
@@ -241,6 +466,15 @@
     "fullPageImage": "/screenshots/lee-robinson-full.webp",
     "mobileImage": "/screenshots/lee-robinson-mobile.webp",
     "favicon": "/favicons/lee-robinson.png"
+  },
+  "lightspark": {
+    "capturedAt": "2026-10-17T17:42:46.178Z",
+    "frameable": false,
+    "ogImage": "https://www.lightspark.com/images/og/home.webp",
+    "previewImage": "/screenshots/lightspark.webp",
+    "fullPageImage": "/screenshots/lightspark-full.webp",
+    "mobileImage": "/screenshots/lightspark-mobile.webp",
+    "favicon": "/favicons/lightspark.png"
   },
   "linear": {
     "capturedAt": "2026-10-16T12:26:46.269Z",
@@ -260,6 +494,15 @@
     "mobileImage": "/screenshots/locomotive-mobile.webp",
     "favicon": "/favicons/locomotive.png"
   },
+  "love-and-money": {
+    "capturedAt": "2026-10-17T17:44:59.228Z",
+    "frameable": true,
+    "ogImage": "https://cdn.sanity.io/images/oaj252v1/production/1ca4f7e5559c72de9d180764bdc65736244392d4-1200x630.jpg",
+    "previewImage": "/screenshots/love-and-money.webp",
+    "fullPageImage": "/screenshots/love-and-money-full.webp",
+    "mobileImage": "/screenshots/love-and-money-mobile.webp",
+    "favicon": "/favicons/love-and-money.png"
+  },
   "lynn-fisher": {
     "capturedAt": "2026-10-16T12:28:12.265Z",
     "frameable": true,
@@ -277,6 +520,15 @@
     "fullPageImage": "/screenshots/magnum-full.webp",
     "mobileImage": "/screenshots/magnum-mobile.webp",
     "favicon": "/favicons/magnum.png"
+  },
+  "mate-the-label": {
+    "capturedAt": "2026-10-17T17:45:58.523Z",
+    "frameable": true,
+    "ogImage": "http://matethelabel.com/cdn/shop/files/MATE_SEO_Image.png?v=1789603225",
+    "previewImage": "/screenshots/mate-the-label.webp",
+    "fullPageImage": "/screenshots/mate-the-label-full.webp",
+    "mobileImage": "/screenshots/mate-the-label-mobile.webp",
+    "favicon": "/favicons/mate-the-label.png"
   },
   "mercury": {
     "capturedAt": "2026-10-16T12:30:44.849Z",
@@ -296,6 +548,51 @@
     "mobileImage": "/screenshots/midjourney-mobile.webp",
     "favicon": "/favicons/midjourney.png"
   },
+  "milk-agency": {
+    "capturedAt": "2026-10-17T17:42:09.622Z",
+    "frameable": true,
+    "ogImage": "https://cdn.sanity.io/images/65ngh081/production/c72ae077e9660f991faca4450f09671c653b1e00-1200x630.png",
+    "previewImage": "/screenshots/milk-agency.webp",
+    "fullPageImage": "/screenshots/milk-agency-full.webp",
+    "mobileImage": "/screenshots/milk-agency-mobile.webp",
+    "favicon": "/favicons/milk-agency.png"
+  },
+  "mindcloud": {
+    "capturedAt": "2026-10-17T17:45:56.675Z",
+    "frameable": true,
+    "ogImage": "https://mindcloud.co/opengraph-image",
+    "previewImage": "/screenshots/mindcloud.webp",
+    "fullPageImage": "/screenshots/mindcloud-full.webp",
+    "mobileImage": "/screenshots/mindcloud-mobile.webp",
+    "favicon": "/favicons/mindcloud.png"
+  },
+  "nossara": {
+    "capturedAt": "2026-10-17T17:44:56.559Z",
+    "frameable": true,
+    "ogImage": "https://framerusercontent.com/images/97UjSeBeS7SpGKu0anhX0eVnDs.jpg",
+    "previewImage": "/screenshots/nossara.webp",
+    "fullPageImage": "/screenshots/nossara-full.webp",
+    "mobileImage": "/screenshots/nossara-mobile.webp",
+    "favicon": "/favicons/nossara.png"
+  },
+  "nothin": {
+    "capturedAt": "2026-10-17T17:47:37.991Z",
+    "frameable": true,
+    "ogImage": "https://cdn.prod.website-files.com/6a0c501c42b9751b78a9d1a7/6a2ecb5b635d5e15f3be5005_open-graph-3.jpg",
+    "previewImage": "/screenshots/nothin.webp",
+    "fullPageImage": "/screenshots/nothin-full.webp",
+    "mobileImage": "/screenshots/nothin-mobile.webp",
+    "favicon": "/favicons/nothin.png"
+  },
+  "oath-biome": {
+    "capturedAt": "2026-10-17T17:44:24.174Z",
+    "frameable": false,
+    "ogImage": "http://www.oathbiome.com/cdn/shop/files/logo-oath-biome-sticky_medium_1.webp?v=1752787753",
+    "previewImage": "/screenshots/oath-biome.webp",
+    "fullPageImage": "/screenshots/oath-biome-full.webp",
+    "mobileImage": "/screenshots/oath-biome-mobile.webp",
+    "favicon": "/favicons/oath-biome.png"
+  },
   "oma": {
     "capturedAt": "2026-10-16T12:34:39.506Z",
     "frameable": false,
@@ -313,6 +610,51 @@
     "fullPageImage": "/screenshots/opal-full.webp",
     "mobileImage": "/screenshots/opal-mobile.webp",
     "favicon": "/favicons/opal.png"
+  },
+  "ornn": {
+    "capturedAt": "2026-10-17T17:46:19.801Z",
+    "frameable": true,
+    "ogImage": "https://framerusercontent.com/images/ZoRRoo7PQWj3EkbBmWzj3aCRY.jpg",
+    "previewImage": "/screenshots/ornn.webp",
+    "fullPageImage": "/screenshots/ornn-full.webp",
+    "mobileImage": "/screenshots/ornn-mobile.webp",
+    "favicon": "/favicons/ornn.png"
+  },
+  "parloa": {
+    "capturedAt": "2026-10-17T17:45:33.562Z",
+    "frameable": false,
+    "ogImage": "https://www.parloa.com/img/og.png",
+    "previewImage": "/screenshots/parloa.webp",
+    "fullPageImage": "/screenshots/parloa-full.webp",
+    "mobileImage": "/screenshots/parloa-mobile.webp",
+    "favicon": "/favicons/parloa.png"
+  },
+  "patch": {
+    "capturedAt": "2026-10-17T17:42:51.240Z",
+    "frameable": false,
+    "ogImage": "https://cdn.prod.website-files.com/6357008bb1dd16395e9e2e70/6a56b20381dbb5deb80a40af_Meta%20Image%20Home%20New.png",
+    "previewImage": "/screenshots/patch.webp",
+    "fullPageImage": "/screenshots/patch-full.webp",
+    "mobileImage": "/screenshots/patch-mobile.webp",
+    "favicon": "/favicons/patch.png"
+  },
+  "paypath": {
+    "capturedAt": "2026-10-17T17:43:38.780Z",
+    "frameable": true,
+    "ogImage": "https://framerusercontent.com/images/ZJsB1PzV5vezjCLWqX6XlDg3rs.png",
+    "previewImage": "/screenshots/paypath.webp",
+    "fullPageImage": "/screenshots/paypath-full.webp",
+    "mobileImage": "/screenshots/paypath-mobile.webp",
+    "favicon": "/favicons/paypath.png"
+  },
+  "pen-dev": {
+    "capturedAt": "2026-10-17T17:43:35.907Z",
+    "frameable": true,
+    "ogImage": "https://pen.dev/assets/marketing/a4ecda6/assets/og-image.png",
+    "previewImage": "/screenshots/pen-dev.webp",
+    "fullPageImage": "/screenshots/pen-dev-full.webp",
+    "mobileImage": "/screenshots/pen-dev-mobile.webp",
+    "favicon": "/favicons/pen-dev.png"
   },
   "pentagram": {
     "capturedAt": "2026-10-16T12:36:58.313Z",
@@ -340,6 +682,15 @@
     "fullPageImage": "/screenshots/phantom-full.webp",
     "mobileImage": "/screenshots/phantom-mobile.webp",
     "favicon": "/favicons/phantom.png"
+  },
+  "pip": {
+    "capturedAt": "2026-10-17T17:43:08.264Z",
+    "frameable": false,
+    "ogImage": "https://pipdot.app/og.png",
+    "previewImage": "/screenshots/pip.webp",
+    "fullPageImage": "/screenshots/pip-full.webp",
+    "mobileImage": "/screenshots/pip-mobile.webp",
+    "favicon": "/favicons/pip.png"
   },
   "pitch": {
     "capturedAt": "2026-10-16T12:28:58.838Z",
@@ -395,6 +746,15 @@
     "mobileImage": "/screenshots/raycast-mobile.webp",
     "favicon": "/favicons/raycast.png"
   },
+  "replicas": {
+    "capturedAt": "2026-10-17T17:43:40.790Z",
+    "frameable": true,
+    "ogImage": "https://replicas.dev/opengraph-image.png?opengraph-image.2mbspay8lwjx5.png",
+    "previewImage": "/screenshots/replicas.webp",
+    "fullPageImage": "/screenshots/replicas-full.webp",
+    "mobileImage": "/screenshots/replicas-mobile.webp",
+    "favicon": "/favicons/replicas.png"
+  },
   "resend": {
     "capturedAt": "2026-10-16T12:29:04.452Z",
     "frameable": false,
@@ -403,6 +763,24 @@
     "fullPageImage": "/screenshots/resend-full.webp",
     "mobileImage": "/screenshots/resend-mobile.webp",
     "favicon": "/favicons/resend.png"
+  },
+  "roundhouse": {
+    "capturedAt": "2026-10-17T17:42:09.622Z",
+    "frameable": true,
+    "ogImage": "https://cdn.prod.website-files.com/6a4b10f92c073faf65e8f45a/6acaad53b9eb00129c1e3242_Roundhouse_0005_Hearth2022-7.jpg",
+    "previewImage": "/screenshots/roundhouse.webp",
+    "fullPageImage": "/screenshots/roundhouse-full.webp",
+    "mobileImage": "/screenshots/roundhouse-mobile.webp",
+    "favicon": "/favicons/roundhouse.png"
+  },
+  "rugvista": {
+    "capturedAt": "2026-10-17T17:44:11.910Z",
+    "frameable": true,
+    "ogImage": null,
+    "previewImage": "/screenshots/rugvista.webp",
+    "fullPageImage": "/screenshots/rugvista-full.webp",
+    "mobileImage": "/screenshots/rugvista-mobile.webp",
+    "favicon": "/favicons/rugvista.png"
   },
   "runway": {
     "capturedAt": "2026-10-16T12:27:27.340Z",
@@ -413,6 +791,24 @@
     "mobileImage": "/screenshots/runway-mobile.webp",
     "favicon": "/favicons/runway.png"
   },
+  "sharplink": {
+    "capturedAt": "2026-10-17T17:42:50.458Z",
+    "frameable": true,
+    "ogImage": "https://a.storyblok.com/f/290008427472090/1200x630/cee5dffe93/og-homepage.jpg",
+    "previewImage": "/screenshots/sharplink.webp",
+    "fullPageImage": "/screenshots/sharplink-full.webp",
+    "mobileImage": "/screenshots/sharplink-mobile.webp",
+    "favicon": "/favicons/sharplink.png"
+  },
+  "siha": {
+    "capturedAt": "2026-10-17T17:45:51.915Z",
+    "frameable": false,
+    "ogImage": "http://siha.com.au/cdn/shop/files/SIHA-Natural-Skincare.jpg?v=1782964892",
+    "previewImage": "/screenshots/siha.webp",
+    "fullPageImage": "/screenshots/siha-full.webp",
+    "mobileImage": "/screenshots/siha-mobile.webp",
+    "favicon": "/favicons/siha.png"
+  },
   "snohetta": {
     "capturedAt": "2026-10-16T12:29:29.187Z",
     "frameable": false,
@@ -421,6 +817,15 @@
     "fullPageImage": "/screenshots/snohetta-full.webp",
     "mobileImage": "/screenshots/snohetta-mobile.webp",
     "favicon": "/favicons/snohetta.png"
+  },
+  "spencer-marsh": {
+    "capturedAt": "2026-10-17T17:45:04.049Z",
+    "frameable": true,
+    "ogImage": "https://framerusercontent.com/assets/gecTcaP5vebKtO47DnqBRfKrTR4.png",
+    "previewImage": "/screenshots/spencer-marsh.webp",
+    "fullPageImage": "/screenshots/spencer-marsh-full.webp",
+    "mobileImage": "/screenshots/spencer-marsh-mobile.webp",
+    "favicon": "/favicons/spencer-marsh.png"
   },
   "stripe": {
     "capturedAt": "2026-10-16T12:30:42.895Z",
@@ -467,6 +872,15 @@
     "mobileImage": "/screenshots/superhuman-mobile.webp",
     "favicon": "/favicons/superhuman.png"
   },
+  "taylorhare": {
+    "capturedAt": "2026-10-17T17:43:15.641Z",
+    "frameable": true,
+    "ogImage": null,
+    "previewImage": "/screenshots/taylorhare.webp",
+    "fullPageImage": "/screenshots/taylorhare-full.webp",
+    "mobileImage": "/screenshots/taylorhare-mobile.webp",
+    "favicon": "/favicons/taylorhare.png"
+  },
   "teenage-engineering": {
     "capturedAt": "2026-10-16T12:28:32.591Z",
     "frameable": true,
@@ -475,6 +889,33 @@
     "fullPageImage": "/screenshots/teenage-engineering-full.webp",
     "mobileImage": "/screenshots/teenage-engineering-mobile.webp",
     "favicon": "/favicons/teenage-engineering.png"
+  },
+  "tekt": {
+    "capturedAt": "2026-10-17T17:45:23.259Z",
+    "frameable": false,
+    "ogImage": null,
+    "previewImage": "/screenshots/tekt.webp",
+    "fullPageImage": "/screenshots/tekt-full.webp",
+    "mobileImage": "/screenshots/tekt-mobile.webp",
+    "favicon": "/favicons/tekt.png"
+  },
+  "temitope-niyi": {
+    "capturedAt": "2026-10-17T17:45:35.057Z",
+    "frameable": true,
+    "ogImage": "https://framerusercontent.com/images/NAHQMszbgYlxF11Od5qtfn5Wnu8.jpg",
+    "previewImage": "/screenshots/temitope-niyi.webp",
+    "fullPageImage": "/screenshots/temitope-niyi-full.webp",
+    "mobileImage": "/screenshots/temitope-niyi-mobile.webp",
+    "favicon": "/favicons/temitope-niyi.png"
+  },
+  "terms": {
+    "capturedAt": "2026-10-17T17:42:28.438Z",
+    "frameable": true,
+    "ogImage": "https://terms.so/opengraph-image.png?opengraph-image.3zav-3xh8xtjz.png",
+    "previewImage": "/screenshots/terms.webp",
+    "fullPageImage": "/screenshots/terms-full.webp",
+    "mobileImage": "/screenshots/terms-mobile.webp",
+    "favicon": "/favicons/terms.png"
   },
   "the-pudding": {
     "capturedAt": "2026-10-16T12:30:09.729Z",
@@ -502,6 +943,24 @@
     "fullPageImage": "/screenshots/things-full.webp",
     "mobileImage": "/screenshots/things-mobile.webp",
     "favicon": "/favicons/things.png"
+  },
+  "thirdway": {
+    "capturedAt": "2026-10-17T17:42:31.362Z",
+    "frameable": true,
+    "ogImage": "https://www.datocms-assets.com/219766/1788542400-websitecoverimage6.png?auto=format&fit=max&w=1200",
+    "previewImage": "/screenshots/thirdway.webp",
+    "fullPageImage": "/screenshots/thirdway-full.webp",
+    "mobileImage": "/screenshots/thirdway-mobile.webp",
+    "favicon": "/favicons/thirdway.png"
+  },
+  "time-fyi": {
+    "capturedAt": "2026-10-17T17:45:58.081Z",
+    "frameable": false,
+    "ogImage": "https://time.fyi/og.png",
+    "previewImage": "/screenshots/time-fyi.webp",
+    "fullPageImage": "/screenshots/time-fyi-full.webp",
+    "mobileImage": "/screenshots/time-fyi-mobile.webp",
+    "favicon": "/favicons/time-fyi.png"
   },
   "ugmonk": {
     "capturedAt": "2026-10-16T12:34:16.284Z",
@@ -539,6 +998,15 @@
     "mobileImage": "/screenshots/vercel-mobile.webp",
     "favicon": "/favicons/vercel.png"
   },
+  "weave": {
+    "capturedAt": "2026-10-17T17:44:10.259Z",
+    "frameable": true,
+    "ogImage": "https://resources.weaveos.com/marketing/weave-social-preview.png",
+    "previewImage": "/screenshots/weave.webp",
+    "fullPageImage": "/screenshots/weave-full.webp",
+    "mobileImage": "/screenshots/weave-mobile.webp",
+    "favicon": "/favicons/weave.png"
+  },
   "wise": {
     "capturedAt": "2026-10-16T12:30:50.851Z",
     "frameable": false,
@@ -547,5 +1015,14 @@
     "fullPageImage": "/screenshots/wise-full.webp",
     "mobileImage": "/screenshots/wise-mobile.webp",
     "favicon": "/favicons/wise.png"
+  },
+  "zaro": {
+    "capturedAt": "2026-10-17T17:42:09.621Z",
+    "frameable": true,
+    "ogImage": "https://zaro.ai/og-image.png?v=ae9d6af96e",
+    "previewImage": "/screenshots/zaro.webp",
+    "fullPageImage": "/screenshots/zaro-full.webp",
+    "mobileImage": "/screenshots/zaro-mobile.webp",
+    "favicon": "/favicons/zaro.png"
   }
 }
